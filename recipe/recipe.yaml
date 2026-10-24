@@ -1,5 +1,5 @@
 context:
-  version: "1.26.0"
+  version: "1.26.1"
 
 package:
   name: cargo-binstall
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/cargo-bins/cargo-binstall/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 69c4f4399ce2a5747d216adfaf85b557aa4d1b91d9014b52885d0fad458dc06f
+  sha256: b8fdebfbb8bdeda91062d69607227e56847258907dc38038c7e6bce874b00c46
 
 build:
   number: 0
